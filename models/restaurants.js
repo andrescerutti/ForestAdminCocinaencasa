@@ -39,9 +39,6 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.BOOLEAN,
       defaultValue: false,
     },
-   day_open: {
-      type: DataTypes.STRING,
-    },
   }, {
     tableName: 'restaurants',
     underscored: true,
