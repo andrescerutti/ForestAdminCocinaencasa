@@ -2079,6 +2079,20 @@
       "inverseOf": null,
       "validations": []
     }, {
+      "field": "dayOpen",
+      "type": "String",
+      "defaultValue": null,
+      "enums": null,
+      "integration": null,
+      "isFilterable": true,
+      "isReadOnly": false,
+      "isRequired": false,
+      "isSortable": true,
+      "isVirtual": false,
+      "reference": null,
+      "inverseOf": null,
+      "validations": []
+    }, {
       "field": "email",
       "type": "String",
       "defaultValue": null,
